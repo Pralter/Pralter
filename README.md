@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Prasanna%20Bahadur%20Adhikari&color=0D7377&fontSize=50&fontAlignY=35)
+
 # Hi, I'm Pra 👋
 
 Electronics, Communication and Information Engineering (BEI) student at **IOE Pokhara, Tribhuvan University**, Nepal.
