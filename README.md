@@ -24,7 +24,6 @@ I like building things — robots, small apps, and whatever helps me learn by do
 - Picking up new tools as projects need them
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pralter&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pralter&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pralter&layout=compact&theme=dark&hide_border=true)
 *Second-semester student, learning by building small, real things.*
